@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ursprash
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Dsa
+- 🌱 I’m currently learning Dsa,Web Dev
 - 💞️ I’m looking to collaborate on challenging 
 -
 <!---
